@@ -13,7 +13,7 @@ Arrow Right: Move right
 Space: pause / restart /start
 q: quit 
 
-User needs to land the spaceship on one of the pads. 
+User needs to land the spaceship on one of the pads. If you are landing too fast it will crush too. 
 
 3. Compile the program
 Make
